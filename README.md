@@ -140,6 +140,6 @@ Saurabh Rastogi
 
 Data Analyst | Power BI Developer
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: (https://www.linkedin.com/in/saurabh-rastogi-75212418b/)
 
 Portfolio: https://www.behance.net/saurabhrastogi07
