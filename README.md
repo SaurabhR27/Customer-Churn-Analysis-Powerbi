@@ -130,12 +130,6 @@ Higher usage frequency is associated with stronger customer retention.
 
 ---
 
-## Dashboard Preview
-
-(Add screenshots here)
-
----
-
 ## Author
 
 Saurabh Rastogi
