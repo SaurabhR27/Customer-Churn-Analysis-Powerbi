@@ -128,6 +128,10 @@ Higher usage frequency is associated with stronger customer retention.
 - Dashboard Design
 - Data Storytelling
 
+
+## Dashboard Preview
+
+(<img width="1107" height="626" alt="Screenshot 2026-06-19 161822" src="https://github.com/user-attachments/assets/8e8d5ed7-8795-47a1-ad48-87dd2c6d494e" />)
 ---
 
 ## Author
